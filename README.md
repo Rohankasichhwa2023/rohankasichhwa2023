@@ -4,7 +4,7 @@ Full-stack web developer in progress.
 
 #### 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,django,python,php,mysql,postgresql,git,java,javascriptandroidstudio)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=react,django,python,postgresql,mysql,git,php,java,javascript,androidstudio)](https://skillicons.dev)
 
 #### 📫 Contact
 
