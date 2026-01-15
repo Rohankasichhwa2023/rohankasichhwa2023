@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Rohan Kasichhwa
 
-Full-stack web developer in progress.
+Software Engineer (Full-Stack + AI)
 
 #### 💻 Tech Stack
 
