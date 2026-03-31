@@ -1,6 +1,6 @@
 ### 👋 Hi, I am Rohan Kasichhwa
 
-Software Engineer (Full-Stack + AI)
+Software Engineer (Backend + AI)
 
 #### 💻 Tech Stack
 
