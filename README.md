@@ -4,7 +4,7 @@ Software Engineer (Full-Stack + AI)
 
 #### 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,django,python,postgresql,mysql,git,php,java,javascript,androidstudio)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=react,selenium,nodejs,express,nextjs,django,python,postgresql,mysql,git,php,java,javascript,androidstudio)](https://skillicons.dev)
 
 #### 📫 Contact
 
