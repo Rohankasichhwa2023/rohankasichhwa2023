@@ -1,10 +1,10 @@
 ### 👋 Hi, I am Rohan Kasichhwa
 
-Software Engineer (Backend + AI)
+Software Engineer (Full-Stack + AI)
 
 #### 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,django,python,postgresql,mysql,git,php,java,javascript,androidstudio)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,django,python,postgresql,mysql,git,php,java,javascript,androidstudio)](https://skillicons.dev)
 
 #### 📫 Contact
 
